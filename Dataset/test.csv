@@ -1,0 +1,4 @@
+image_path,patient_id,series_id,instance_number
+./Dataset/test_images/50046/24574/30.png,50046,24574,30
+./Dataset/test_images/63706/39279/30.png,63706,39279,30
+./Dataset/test_images/48843/62825/30.png,48843,62825,30
